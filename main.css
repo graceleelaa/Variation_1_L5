@@ -8,14 +8,6 @@ body{
 	font-family: sans-serif;
 }
 
-.talking-head{
-	font-weight: 700;
-	font-size: 3em;
-	text-decoration: underline;
-	width: 25%;
-	padding: 20px;
-}
-
 .main{	
 	width: 90%;
 	height: 500px;
